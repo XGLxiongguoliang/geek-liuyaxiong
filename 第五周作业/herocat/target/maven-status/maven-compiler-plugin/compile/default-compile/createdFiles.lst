@@ -1,0 +1,10 @@
+com\xgl\web\servlet\HeroServlet.class
+com\xgl\web\CustomServer.class
+com\xgl\web\CustomServer$1.class
+com\xgl\web\servlet\HeroResponse.class
+com\xgl\web\HeroCat.class
+com\xgl\web\servlet\impl\DefaultCustomServlet.class
+com\xgl\web\CustomHandler.class
+com\xgl\web\servlet\HeroRequest.class
+com\xgl\web\servlet\impl\HttpCustomRequest.class
+com\xgl\web\servlet\impl\HttpCustomResponse.class
